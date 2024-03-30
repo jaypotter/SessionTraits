@@ -7,6 +7,11 @@
         "potter/session-trait": "dev-main",
         "potter/session-aware-trait": "dev-main"
     },
+    "suggest": {
+        "potter/session": "dev-main",
+        "potter/traits": "dev-main",
+        "potter/framework": "dev-main"
+    },
     "license": "MIT",
     "authors": [
         {
